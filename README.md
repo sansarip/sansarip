@@ -1,4 +1,4 @@
-<img src="https://i.gyazo.com/38f21fc4ee08a077f0f63c216aaebc74.jpg" alt="Me!" align="left" width="500px" />
+<img src="https://i.gyazo.com/38f21fc4ee08a077f0f63c216aaebc74.jpg" alt="Me!" align="left" width="275px" />
 
 Hey there, you snazzy lil' rapscallion! 
 
